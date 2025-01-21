@@ -53,7 +53,7 @@ https://discord.com/oauth2/authorize?client_id=REPLACEME&permissions=96422051641
 - In a Discord server where the bot is a member, join a voice channel and type the command `>join` or `>join free`.
 - The bot will join the channel and start listening to users who are speaking. Spoken phrases are processed and responded to in real-time.
 
-### Text Chat
+### Text Chat - To Be Removed
 - To start a new conversation, mention the bot in your message.
 - To continue a conversation, just reply to the bot's message.
 - You can also continue conversations by creating a thread from the bot's message. In that case, you no longer need to reply or mention the bot within the thread.
@@ -63,9 +63,9 @@ https://discord.com/oauth2/authorize?client_id=REPLACEME&permissions=96422051641
 - `/join free`: Similar to `>join`, but will respond to everything without using trigger words. Best for solo usage.
 - `/join silent`: Similar to `>join`, but no confirmation sound will play when trigger is detected/llm responded.
 - `/join transcribe`: Similar to `>join`, but will save the transcriptions to a file and send it once you use the `>leave` command.
-- `/play [song name or URL]`: Play a song from YouTube using either its name (search via API) or direct URL. Please note that the search function requires a valid API key. You may also say `play [query] on youtube` or `play [query] song` in voice chat.
+- `/play [song name or URL]`: Play a song from YouTube using either its name (search via API) or direct URL. Please note that the search function requires a valid API key. You may also say `play [query] on youtube` or `play [query] song` in voice chat. - To Be Removed
 - `/search [query]`: Use perplexity LLM search to find the best answer to your query. You may also say `search [query] on internet` or `search on internet for [query]` in voice chat.
-- `/reminder [timestamp] [message]`: Set a reminder for a specific time using Discord timestamps.
+- `/reminder [timestamp] [message]`: Set a reminder for a specific time using Discord timestamps. - To Be Removed
 - `/reset`: Reset the LLM chat history. You may also say `reset chat history` in voice chat.
 - `/leave`: Command for the bot to leave the voice channel. You may also say `leave voice chat` in voice chat.
 - `/help`: Display the list of available commands.
