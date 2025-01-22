@@ -9,7 +9,7 @@
 
 This Discord bot uses voice recognition to interact with users in a voice channel through transcription, processing with a Large Language Model (LLM), and responding with synthesized voice. The bot converts spoken audio to text, sends it to an LLM for processing, and uses Text-to-Speech (TTS) to voice the response.
 
-Additionally, you can just use the bot in text channels. (Will Be Removed OR Forked to Another Project IDK YET)
+Additionally, you can just use the bot in text channels. (Will Be Removed or heavily disregarded)
 
 ## Features
 - __Conversation:__ Engage in a conversation with the bot using voice or text input. - To Be Improved
