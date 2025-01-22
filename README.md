@@ -7,7 +7,6 @@
 - Allow Triggerwords and System Prompt to be adjusted without script restart
 - Find alternative to ElevenLabs - it is expensive!
 
-- 
 This Discord bot uses voice recognition to interact with users in a voice channel through transcription, processing with a Large Language Model (LLM), and responding with synthesized voice. The bot converts spoken audio to text, sends it to an LLM for processing, and uses Text-to-Speech (TTS) to voice the response.
 
 Additionally, you can just use the bot in text channels. (Will Be Removed)
